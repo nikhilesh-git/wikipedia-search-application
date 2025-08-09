@@ -20,8 +20,7 @@ This is a simple and responsive Wikipedia Search Application built using **HTML*
 
 ### 🚀 Live Demo
 
-👉 [View Live Project](#)
-*Replace `#` with your GitHub Pages or deployment link once hosted.*
+👉 [View Live Project](https://wikipedia-search-application-umber.vercel.app/)
 
 ---
 
@@ -29,8 +28,7 @@ This is a simple and responsive Wikipedia Search Application built using **HTML*
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
-* Bootstrap 4
+* JavaScript 
 * [CCBP Wiki Search API](https://apis.ccbp.in/wiki-search)
 
 ---
